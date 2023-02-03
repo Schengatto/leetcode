@@ -42,3 +42,5 @@ junit.xml
 *.ini
 **/.ssh/**/*
 !docker/.ssh/readme.md
+
+.history
