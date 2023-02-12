@@ -5,7 +5,7 @@ function findAnagrams(s: string, p: string): number[] {
             if (chunkMap[char] !== wordMap[char]) return false;
         }
         return true;
-    }S
+    }
 
     let pCharMap = {};
     let sCharMap = {};
